@@ -55,7 +55,7 @@
             "@auto-scripts"
         ],
         "post-update-cmd": [
-            "@auto-scripts",git init
+            "@auto-scripts"
         ]
     },
     "conflict": {
